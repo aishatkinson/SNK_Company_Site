@@ -19,9 +19,27 @@ h1{
 	text-align: center;
 }
 
+#News, #Cooporate_Info,#Locations,#Partners, #Services{
+	width: 350px;
+	height: 150px;
+	margin-left: 50;
+	padding: 15px;
+	float: left;
+	clear: right;
+}
 
-/*
-	finish navbar and footer and Commit changes
+#wrap{
+	width: 100%;
+	margin:50px;
+	margin-bottom: 50px;
+	display: block;
+	position: relative;
+}
 
-	Apply Styles to content div and commit the changes
-*/
+footer{	
+	width: 100%;
+	margin-top: 50px;
+	text-align: center;
+	float: left;
+	clear: both;
+}
