@@ -1,0 +1,27 @@
+ul{
+	list-style-type:none;
+	display: inline;
+}
+
+li {
+	padding: 8px;
+    float: left;
+}
+
+#navbar a {
+    display: block;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #dddddd;
+}
+
+h1{
+	text-align: center;
+}
+
+
+/*
+	finish navbar and footer and Commit changes
+
+	Apply Styles to content div and commit the changes
+*/
